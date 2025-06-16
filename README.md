@@ -1,2 +1,2 @@
-# PythonLearning
-Python_pandas_learning
+# Python_pandas_Learning
+Self-learning python on progress
