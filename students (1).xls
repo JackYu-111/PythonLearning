@@ -1,0 +1,21 @@
+Name,Age,Gender,Course,Score,Major,Year,City,GPA
+Alex,22,M,Maths,80,Computer Science,2,Hong Kong,3.5
+Bella,21,F,Physics,90,Physics,1,Shanghai,3.8
+Serco,23,M,English,50,Biology,3,Beijing,2.7
+Jack,22,M,Chinese,70,Mathematics,2,Guangzhou,3.2
+Nomber,25,F,Mandarin,66,Engineering,4,Shenzhen,3.0
+Jacky,20,M,Accounting,40,Accounting,1,Taipei,2.5
+Emma,24,F,Chemistry,85,Chemistry,3,Singapore,3.6
+Liam,21,M,Statistics,92,Statistics,2,Tokyo,3.9
+Olivia,23,F,English,78,Literature,3,Seoul,3.4
+Noah,22,M,Economics,88,Economics,2,Macau,3.7
+Sophia,20,F,Psychology,95,Psychology,1,Hong Kong,4.0
+James,24,M,Finance,60,Finance,4,Shanghai,2.9
+Ava,21,F,History,73,History,2,Beijing,3.1
+William,23,M,Marketing,82,Marketing,3,Guangzhou,3.3
+Isabella,22,F,Art,77,Art,2,Shenzhen,3.2
+Michael,25,M,Law,65,Law,4,Taipei,2.8
+Mia,20,F,Biology,91,Medicine,1,Singapore,3.8
+Daniel,21,M,Geology,84,Geology,2,Tokyo,3.5
+Charlotte,23,F,Music,79,Music,3,Seoul,3.3
+Henry,22,M,Design,87,Architecture,2,Macau,3.6
